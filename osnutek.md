@@ -1,4 +1,5 @@
 # Napovedovanje izidov teniških tekem
+Anže Barle Čuk, Irna Nuhić, Nik Javor, Nika Labazan
 
 Cilj projekta je ustvariti model ki bo kar se da točno napovedal zmagovalce prihodnjih tekem Grand Slam in ATP turnirjev.
 
